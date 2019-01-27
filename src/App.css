@@ -22,6 +22,16 @@
   color: #61dafb;
 }
 
+.nameWrapper {
+  height: 50px;
+}
+
+.namWrapper1:hover {
+    cursor: pointer;
+    color: black;
+    background-color: #33f8ed;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
